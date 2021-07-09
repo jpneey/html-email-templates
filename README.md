@@ -12,3 +12,6 @@ https://html-email-templates.vercel.app/letterv2.html
 
 ## Newsletter
 https://html-email-templates.vercel.app/newsletter.html
+
+## Order
+https://html-email-templates.vercel.app/order.html
