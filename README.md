@@ -1,6 +1,10 @@
 # html-email-templates
 Free HTML email templates
 
+Every code in this repository is dedicated to the public domain. However, donations are always welcome.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=D6ZRENKB3CZBQ)
+
 ## Basic
 https://html-email-templates.vercel.app/basic.html
 
